@@ -1,5 +1,5 @@
 <div align="center">
-  ![Header Banner](banner.png)
+![Header Banner](./banner.png)
 </div>
 
 # Hi, I’m Abdalla M. Radwan 👋
