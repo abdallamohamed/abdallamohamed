@@ -67,11 +67,72 @@ I've built projects like **Blue Horizon**, **ITI Exam System**, and **FitVerse**
 ---
 
 ## 🚀 Featured Projects
-- **Blue Horizon** — Tourist Village Rental Platform  
-- **ITI Exam System** — Online Examination Platform  
-- **FitVerse** — Online Clothing Store
+
+### **Blue Horizon** — Tourist Village Rental Platform  
+A full-stack web application for booking and managing accommodations in a tourist village.  
+**Tech Stack:** ASP.NET Core 8, Angular 17, SQL Server, Entity Framework Core, Bootstrap  
+**Features:**  
+- Secure user authentication with JWT  
+- Accommodation search and booking  
+- Admin dashboard for managing rentals and users  
+- Responsive UI for desktop and mobile
 
 ---
+
+### **ITI Exam System** — Online Examination Platform  
+A platform for creating, managing, and taking online exams.  
+**Tech Stack:** ASP.NET Core 9 Web API, Angular 17, SQL Server, EF Core  
+**Features:**  
+- Role-based access control (Admin, Instructor, Student)  
+- Exam creation with question banks  
+- Automatic grading and result reporting  
+- RESTful API with Swagger documentation
+
+---
+
+### **FitVerse** — Online Clothing Store  
+E-commerce web application for selling clothing items online.  
+**Tech Stack:** ASP.NET Core 8, Angular 17, SQL Server, EF Core  
+**Features:**  
+- Product catalog with categories and filters  
+- Shopping cart and order checkout  
+- Secure payment integration (mock)  
+- Admin panel for product and inventory management
+
+---
+
+### **Inventory Management System** — Graduation Project  
+A system for managing product inventory, suppliers, and orders.  
+**Tech Stack:** ASP.NET Core MVC, SQL Server, EF Core  
+**Features:**  
+- Track stock levels in real-time  
+- Generate purchase orders automatically  
+- Detailed reporting with SSRS  
+- Multi-user authentication
+
+---
+
+### **ITI Students Portal** — Academic Portal  
+A web portal for managing ITI student data and course registrations.  
+**Tech Stack:** ASP.NET Core MVC, SQL Server  
+**Features:**  
+- Student profile management  
+- Course registration system  
+- Attendance tracking  
+- Admin dashboard with analytics
+
+---
+
+### **Task Manager API** — RESTful API Service  
+A backend service for task and project management.  
+**Tech Stack:** ASP.NET Core Web API, EF Core, SQL Server  
+**Features:**  
+- CRUD operations for tasks and projects  
+- User authentication and authorization  
+- Swagger API documentation
+
+---
+
 
 ## 📊 GitHub Stats
 ![Abdalla's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdallamohamed&show_icons=true&theme=tokyonight)  
