@@ -2,7 +2,7 @@
 
 # Hi, I’m Abdalla M. Radwan 👋
 **Full Stack .NET & Angular Developer**  
-📍 Cairo, Egypt – 📧 amohamed102000@gmail.com
+📍 Cairo, Egypt – 📧 amohamed102000@gmail.com  
 
 ---
 
@@ -70,12 +70,12 @@ I've built projects like **Blue Horizon**, **ITI Exam System**, and **FitVerse**
 
 ### **Blue Horizon** — Tourist Village Rental Platform  
 A full-stack web application for booking and managing accommodations in a tourist village.  
-**Tech Stack:** ASP.NET Core 8, Angular 17, SQL Server, Entity Framework Core, Bootstrap  
+**Tech Stack:** ASP.NET Core 8, Angular 17, SQL Server, EF Core, Bootstrap  
 **Features:**  
-- Secure user authentication with JWT  
-- Accommodation search and booking  
-- Admin dashboard for managing rentals and users  
-- Responsive UI for desktop and mobile
+- Secure authentication with JWT  
+- Search and booking functionality  
+- Admin dashboard for management  
+- Fully responsive design
 
 ---
 
@@ -83,56 +83,55 @@ A full-stack web application for booking and managing accommodations in a touris
 A platform for creating, managing, and taking online exams.  
 **Tech Stack:** ASP.NET Core 9 Web API, Angular 17, SQL Server, EF Core  
 **Features:**  
-- Role-based access control (Admin, Instructor, Student)  
-- Exam creation with question banks  
-- Automatic grading and result reporting  
-- RESTful API with Swagger documentation
+- Role-based access control  
+- Question banks and exam creation  
+- Auto grading and results reporting  
+- API documentation with Swagger
 
 ---
 
 ### **FitVerse** — Online Clothing Store  
-E-commerce web application for selling clothing items online.  
+E-commerce application for selling clothing items.  
 **Tech Stack:** ASP.NET Core 8, Angular 17, SQL Server, EF Core  
 **Features:**  
-- Product catalog with categories and filters  
-- Shopping cart and order checkout  
-- Secure payment integration (mock)  
-- Admin panel for product and inventory management
+- Product catalog and filtering  
+- Shopping cart and checkout  
+- Payment integration (mock)  
+- Admin inventory management
 
 ---
 
 ### **Inventory Management System** — Graduation Project  
-A system for managing product inventory, suppliers, and orders.  
+System for managing products, suppliers, and orders.  
 **Tech Stack:** ASP.NET Core MVC, SQL Server, EF Core  
 **Features:**  
-- Track stock levels in real-time  
-- Generate purchase orders automatically  
-- Detailed reporting with SSRS  
+- Real-time stock tracking  
+- Purchase order automation  
+- SSRS reporting  
 - Multi-user authentication
 
 ---
 
 ### **ITI Students Portal** — Academic Portal  
-A web portal for managing ITI student data and course registrations.  
+A portal for managing ITI student data and registrations.  
 **Tech Stack:** ASP.NET Core MVC, SQL Server  
 **Features:**  
-- Student profile management  
-- Course registration system  
+- Student profiles  
+- Course registration  
 - Attendance tracking  
-- Admin dashboard with analytics
+- Admin analytics
 
 ---
 
 ### **Task Manager API** — RESTful API Service  
-A backend service for task and project management.  
+Backend service for task and project management.  
 **Tech Stack:** ASP.NET Core Web API, EF Core, SQL Server  
 **Features:**  
-- CRUD operations for tasks and projects  
-- User authentication and authorization  
-- Swagger API documentation
+- CRUD operations for tasks/projects  
+- Authentication and authorization  
+- Swagger documentation
 
 ---
-
 
 ## 📊 GitHub Stats & Activity
 
@@ -142,7 +141,6 @@ A backend service for task and project management.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdallamohamed&label=Profile%20views&color=0e75b6&style=flat)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdallamohamed&theme=onedark&no-frame=true&margin-w=10)
-
 
 ---
 
