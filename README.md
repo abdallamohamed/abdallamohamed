@@ -134,9 +134,15 @@ A backend service for task and project management.
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
+
 ![Abdalla's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdallamohamed&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallamohamed&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallamohamed&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=abdallamohamed&theme=tokyonight&border_radius=5)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdallamohamed&label=Profile%20views&color=0e75b6&style=flat)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdallamohamed&theme=onedark&no-frame=true&margin-w=10)
+
 
 ---
 
