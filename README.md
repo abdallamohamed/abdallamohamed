@@ -1,6 +1,4 @@
-<div align="center">
 ![Header Banner](https://raw.githubusercontent.com/abdallamohamed/abdallamohamed/main/banner.png)
-</div>
 
 # Hi, I’m Abdalla M. Radwan 👋
 ### Full Stack .NET & Angular Developer  
