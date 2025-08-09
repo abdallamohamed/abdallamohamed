@@ -21,3 +21,12 @@ Full Stack .NET & Angular Developer with experience in building scalable web app
 📫 Contact: amohamed102000@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/abdallamradwan
 
+---
+
+## 📊 GitHub Stats
+![Abdalla's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdallamradwan&show_icons=true&theme=tokyonight)
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallamradwan&layout=compact&theme=tokyonight)
+
+
